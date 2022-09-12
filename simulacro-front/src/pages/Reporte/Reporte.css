@@ -1,0 +1,15 @@
+.fondo {
+	background-color: rgb(187, 247, 228);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding-top: 20px;
+	min-height: 93.4vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}

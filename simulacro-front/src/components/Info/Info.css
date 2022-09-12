@@ -1,0 +1,89 @@
+.contenedor {
+    margin: 1.5%;
+}
+
+#div-clima {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#div-clima .contenedor {
+    width: 30%;
+}
+
+.border-contenedor-sup {
+    border-radius: 25px 25px 0px 0px;
+}
+
+.border-contenedor-inf {
+    border-radius: 0px 0px 25px 25px;
+}
+
+.encabezado-principal {
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 0px 0px 0px;
+    margin: 0px;
+}
+
+.encabezado-secundario {
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px 0px 5px 0px;
+    margin: 0px;
+}
+
+.color-encabezado {
+    background-color: rgb(200, 223, 242);
+    opacity: 0.93;
+}
+
+.cuerpo-principal {
+    font-size: 23px;
+    padding: 25px 0px 15px 0px;
+    margin: 0px;
+}
+
+.cuerpo-secundario {
+    font-size: 20px;
+    padding: 25px 0px 15px 0px;
+    margin: 0px;
+}
+
+.color-cuerpo {
+    background-color: rgb(242, 248, 252);
+    opacity: 0.9;
+}
+
+.imagen-clima {
+    height: 100px;
+    width: 100px;
+}
+
+.horarios {
+    padding: 10px 0px 5px 0px;
+    margin: 0px 0px -11px 0px;
+}
+
+.imagen-sol {
+    height: 70px;
+    width: 100px;
+}
+
+.imagen-temp {
+    height: 30px;
+    width: 15px;
+    display: inline;
+}
+
+.imagen-viento {
+    height: 75px;
+    width: 80px;
+}
+
+.vertical-center {
+    display: flex;
+    align-items: center;
+}
