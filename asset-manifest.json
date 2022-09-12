@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Simulacro/static/css/main.0acbb791.css",
+    "main.js": "/Simulacro/static/js/main.672a926c.js",
+    "static/js/787.94e802c7.chunk.js": "/Simulacro/static/js/787.94e802c7.chunk.js",
+    "static/media/login.png": "/Simulacro/static/media/login.c3dbb5a0af109cec395f.png",
+    "index.html": "/Simulacro/index.html",
+    "main.0acbb791.css.map": "/Simulacro/static/css/main.0acbb791.css.map",
+    "main.672a926c.js.map": "/Simulacro/static/js/main.672a926c.js.map",
+    "787.94e802c7.chunk.js.map": "/Simulacro/static/js/787.94e802c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0acbb791.css",
+    "static/js/main.672a926c.js"
+  ]
+}
